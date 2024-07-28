@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
-.auth.ini
+*.auth.ini
 .Python
 build/
 develop-eggs/
